@@ -1,0 +1,36 @@
+.Search{
+  color:#119B9D;
+  border-radius: 60px;
+  border: 2px solid #119B9D;
+  padding: 5px 30px;
+  margin-top: 30px ;
+  margin-left: 30px;
+  width: 130px;
+  font-weight: bold;
+  }
+  
+  .Plus{
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  background-color: #00D1B2;
+  border-radius: 50%;
+  border: none;
+  color: white;
+  margin-left: 30px;
+  }
+  
+  .Plus span{
+    font-size: 150%;
+  }
+  
+  .CreateAccount{
+  background-color: #2B78E4;
+  border: 2px solid black;
+  color: white;
+  box-shadow: 3px 3px 2px 0px black;
+  margin-top: 10px;
+  padding: 5px 30px;
+  margin-left: 30px;
+  }
+  
